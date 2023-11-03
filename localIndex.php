@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Try to echo my first git code</h1><br>
+    <h1>Try to echo my first git code just a add</h1><br>
     <p><?php echo 'helllo'; ?></p>
 </body>
 </html>
